@@ -1,0 +1,4 @@
+- App state managed by useReducer hook
+- SafeAreaView used for render content within the safe area boundaries of a device
+- FlatList used for a performant interface for rendering basic, flat lists
+- When user opens the app, there loads a list of 3 random facts followed by `Load More` button. When pressed, it loads another 3 facts and merged with previously.
